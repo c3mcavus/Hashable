@@ -5,5 +5,5 @@
 ![](w.png)
 
 * **Immutable built-in objectler** hash değerlerine sahipken **Mutable built-in objectler** hash değerine sahip değillerdir.
-* **Mutable built-in objectler** içinde sadece hash değerine sahip değerler tutabilirsiniz.
+* **Mutable built-in objectler** içinde sadece hash değerine sahip değerler tutabilir.
 * Daha fazla bilgi ve örnekler için jupyter notebook üzerinden ulaşabilirsiniz.
